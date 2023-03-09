@@ -10,7 +10,7 @@ export default function App() {
      
 <footer> 
   This project was coded by Svitlana Dolinta and is
-      <a href="https://github.com/SvitlaM/weather-application" target="_blank"> open sourced on GitHub</a>
+      <a href="https://github.com/SvitlaM/weather-application" target="_blank" rel="noreferrer"> open sourced on GitHub</a>
       
       </footer>
       </div>
